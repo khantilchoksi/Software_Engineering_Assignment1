@@ -12,7 +12,7 @@
 
 
 ### This is how I look like:
-![img](https://github.ncsu.edu/khchoksi/HW1_SE/blob/gh-pages/MyPicture.png?raw=true)
+![img](https://github.ncsu.edu/khchoksi/HW1_SE/blob/gh-pages/ProfilePic.jpg?raw=true)
 
 
 ### My Skills are:
