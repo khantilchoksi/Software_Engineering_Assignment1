@@ -14,9 +14,9 @@ Home work assignment 1 for CSC 510 - Software Engineering
   
 * **(B) About Me:**
 
-Please [click here](https://pages.github.ncsu.edu/khchoksi/HW1_SE/) which redirects my own web page and it is hosted on the gh-pages.
+    Please [click here](https://pages.github.ncsu.edu/khchoksi/HW1_SE/) which redirects my own web page and it is hosted on the gh-pages.
 
 
 * **(C) Concepts:**
 
-Please [click here](./Concepts.md) to see my answers to the quesitons given in the concepts section of homework.
+    Please [click here](./Concepts.md) to see my answers to the quesitons given in the concepts section of homework.
