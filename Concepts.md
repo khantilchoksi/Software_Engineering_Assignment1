@@ -37,8 +37,9 @@ So we may have to make another API call for the rest of the required data.
  
  e.g. *Request:* 
 
-`{
-   client(unique_id: 1234) {
+    `{
+  
+      client(unique_id: 1234) {
     
         unique_id  
         
@@ -55,14 +56,14 @@ So we may have to make another API call for the rest of the required data.
           width            
         }  
         
-    }  
- }`
+     }  
+    }`
  
 *Response:*
 
- `{  
+     `{  
  
-    “client”:{
+      “client”:{
 
        “unique_id”:”1234”  
 
@@ -82,7 +83,7 @@ So we may have to make another API call for the rest of the required data.
 
      }
 
-}`
+    }`
 
  
 
@@ -113,3 +114,8 @@ And once this schema is defined, the teams working on frontend developers doesn�
 
 * Similarity between both the methods are that, they both can be requested using the HTTP request and returns the JSON data.
 
+**References:**  
+  I have used the following links to read about the GraphQL.  
+   http://graphql.org/   
+   https://code.facebook.com/posts/1691455094417024/graphql-a-data-query-language/  
+   https://www.howtographql.com/basics/1-graphql-is-the-better-rest/  
