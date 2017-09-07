@@ -4,10 +4,10 @@ Home work assignment 1 for CSC 510 - Software Engineering
 * **(A) REST:**
   
   * My code for listBranches in a given repo under an owner is [here](./listBranches.js). 
-  * Write code for create a new repo is [here](./createRepo.js).
-  * Write code for creating an issue for an existing repo is [here](./createIssues.js).
-  * Write code for editing a repo to enable wiki support is [here](./editRepo.js).
-  * Write code for listing reactions from a github issue is [here](./listReactions.js)
+  * My code for creating a new repo is [here](./createRepo.js).
+  * My code for creating an issue for an existing repo is [here](./createIssues.js).
+  * My code for editing a repo to enable wiki support is [here](./editRepo.js).
+  * My code for listing reactions from a github issue is [here](./listReactions.js)
   
     **Note:** I have not checkined my git personal access token. I have defined the environment variable as GITTOKEN in my          .bash_profile. So I kindly request you to replace with yours.
   
