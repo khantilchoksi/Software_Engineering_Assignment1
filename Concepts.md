@@ -1,4 +1,4 @@
-## 1.Explain some additional concerns related to using REST apis.
+## 1. Explain some additional concerns related to using REST apis.
 
 * (a) If we make any change in the frontend(UI), it may be possible that, 
 we need some different data for that API call and we may also not need other data which was provided earlier in the API call. 
@@ -73,11 +73,11 @@ So we may have to make another API call for the rest of the required data.
 
        “profilePicture”:{  
 
-       “uri” : “/xyz/abcd”,  
+         “uri” : “/xyz/abcd”,  
 
-       “height”: 150,  
+         “height”: 150,  
 
-       “width”: 150,  
+         “width”: 150,  
 
        }
 
