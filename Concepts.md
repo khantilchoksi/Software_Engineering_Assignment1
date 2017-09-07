@@ -37,7 +37,7 @@ So we may have to make another API call for the rest of the required data.
  
  e.g. *Request:* 
 
-    `{
+    {
   
       client(unique_id: 1234) {
     
@@ -57,11 +57,11 @@ So we may have to make another API call for the rest of the required data.
         }  
         
      }  
-    }`
+    }
  
 *Response:*
 
-     `{  
+     {  
  
       “client”:{
 
@@ -83,7 +83,7 @@ So we may have to make another API call for the rest of the required data.
 
      }
 
-    }`
+    }
 
  
 
@@ -100,7 +100,7 @@ So a RESTful service may require complex join statement in SQL and multiple roun
 (like caching during networking, browser caching, etc.)  will be useful to do the task which are not necessarily required to do the task.
 * Whereas in GraphQL, it doesn’t  have the caching functionality. So, it reduces the performance.
 
-**(e)**	Schema and data type system:
+**(e)	Schema and data type system:**
 
 * In the RESTful API, the backed has to decide the data type and if the frontend developer wants to change it, we have to create a new API call.
 * Whereas in the GraphQL, it uses a strong type system to define the capabilities of an API. 
@@ -116,6 +116,6 @@ And once this schema is defined, the teams working on frontend developers doesn�
 
 **References:**  
   I have used the following links to read about the GraphQL.  
-   http://graphql.org/   
-   https://code.facebook.com/posts/1691455094417024/graphql-a-data-query-language/  
-   https://www.howtographql.com/basics/1-graphql-is-the-better-rest/  
+    http://graphql.org/   
+    https://code.facebook.com/posts/1691455094417024/graphql-a-data-query-language/  
+    https://www.howtographql.com/basics/1-graphql-is-the-better-rest/  
