@@ -9,7 +9,7 @@ Home work assignment 1 for CSC 510 - Software Engineering
   * Write code for editing a repo to enable wiki support is [here](./editRepo.js).
   * Write code for listing reactions from a github issue is [here](./listReactions.js)
   
- **Note:** I have not checkined my git personal access token. I have defined the environment variable as GITTOKEN in my .bash_profile. So I kindly request you to replace with yours.
+    **Note:** I have not checkined my git personal access token. I have defined the environment variable as GITTOKEN in my          .bash_profile. So I kindly request you to replace with yours.
   
   
 * **(B) About Me**
